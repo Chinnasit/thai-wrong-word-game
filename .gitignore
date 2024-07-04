@@ -1,0 +1,73 @@
+# Generate this file by Claude AI
+
+# Next.js
+/twwg-frontend/.next/
+/twwg-frontend/out/
+/twwg-frontend/node_modules/
+/twwg-frontend/.pnp
+/twwg-frontend/.pnp.js
+
+# Next.js production
+/twwg-frontend/build
+
+# Vercel
+/twwg-frontend/.vercel
+
+# Go
+/twwg-backend/bin/
+/twwg-backend/pkg/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Go testing
+*.test
+
+# Go coverage
+*.out
+
+# Go workspace file
+go.work
+
+# Dependency directories (remove the comment below to include it)
+# vendor/
+
+# PostgreSQL
+*.sql
+*.dump
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Misc
+*.bak
+*.tmp
+*.temp
