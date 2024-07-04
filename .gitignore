@@ -15,7 +15,7 @@
 
 # Go
 /twwg-backend/bin/
-/twwg-backend/pkg/
+/twwg-backend/pkg/.env
 *.exe
 *.exe~
 *.dll
